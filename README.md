@@ -1,15 +1,29 @@
-# Mapa interactivo – Créditos Impulso 2023
+# Mapas Interactivos – Programa Impulso al Comercio Bonaerense
 
-Este repositorio contiene un mapa interactivo que muestra la distribución de créditos otorgados en el marco del programa **Impulso I** durante el año 2023, por municipio en la Provincia de Buenos Aires.
-
-📍 **Ver el mapa online:**  
-👉 [mapa_interactivo_impulso1.html](https://matiaspiccolo.github.io/Impulso/mapa_interactivo_impulso1.html)
+Este repositorio contiene visualizaciones interactivas de los créditos otorgados por el programa **Impulso al Comercio Bonaerense** en diferentes etapas.
 
 ---
 
-## Contenidos del repositorio
+## 📍 Mapas disponibles
 
-- `mapa_interactivo_impulso1.html`: Mapa generado con `ggiraph` en R  
-- `impulso2023.R`: Script de R usado para leer, procesar y visualizar los datos  
-- `Impulso.xlsx`: Base de datos con créditos por municipio  
-- Carpeta `limites-partidos/`: Archivos del shapefile con los límites municipales  
+- [Impulso 1 (2023)](https://matiaspiccolo.github.io/Impulso/mapa_interactivo_impulso1.html)
+- [Impulso 2 (2024)](https://matiaspiccolo.github.io/Impulso/mapa_interactivo_impulso2.html)
+
+---
+
+## 📂 Archivos incluidos
+
+- `Impulso.xlsx`: Base de datos de créditos (usada en ambos mapas)
+- `impulso1.R`: Script R para procesar y visualizar los datos de 2023
+- `impulso2.R`: Script R para procesar y visualizar los datos de 2024 y 2025
+- `mapa_interactivo_impulso1.html`: Mapa interactivo de 2023
+- `mapa_interactivo_impulso2.html`: Mapa interactivo de 2024 y 2025
+
+---
+
+## 📦 Requisitos para correr los scripts
+
+Paquetes necesarios en R:
+
+```r
+install.packages(c("sf", "readxl", "tmap", "ggplot2", "ggiraph", "patchwork", "RColorBrewer", "scales", "tidyverse"))
