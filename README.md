@@ -6,7 +6,7 @@ Este repositorio contiene visualizaciones interactivas de los créditos otorgado
 
 ## 📍 Mapas disponibles
 
-- [Impulso 1 (2023)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_impulso1.html)
+- [Impulso 1 (2023)](https://matiaspiccolo.github.io/Impulso/mapa_interactivo_impulso1.html)
 - [Impulso 2 (2024-2025)](https://matiaspiccolo.github.io/Impulso/mapa_interactivo_impulso2.html)
 
 ---
