@@ -1,6 +1,6 @@
 # Mapas Interactivos – Programa Impulso al Comercio Bonaerense
 
-Este repositorio contiene visualizaciones interactivas de los créditos otorgados por el programa **Impulso al Comercio Bonaerense** en diferentes etapas.
+Este repositorio contiene visualizaciones interactivas de los créditos otorgados por el programa **Impulso al Comercio Bonaerense** y el programa **Emprendé tu Comercio** en diferentes etapas.
 
 ---
 
