@@ -9,7 +9,8 @@ Este repositorio contiene visualizaciones interactivas de los créditos otorgado
 - [Impulso 1 (2023)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_impulso1.html)
 - [Impulso 2 (2024-2025)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_impulso2.html)
 - [Impulso 3 (2025-2026)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_impulso3b.html)
-- [Emprendé 1 (2025)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_emprende1.html)
+- [Emprendé 1 (2024)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_emprende1.html)
+- [Emprendé 2 (2025)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_emprende2.html)
 
 ---
 
