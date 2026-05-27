@@ -13,6 +13,7 @@ Este repositorio contiene visualizaciones interactivas de los créditos otorgado
 - [Emprendé 2 (2025)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_emprende2.html)
 - [IMPULSO](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_IMPULSO.html)
 - [EMPRENDE](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_EMPRENDE_total.html)
+- [INFROME IED](https://matiaspiccolo.github.io/Impulso/ied_argentina_industria_completo.html)
 ---
 
 ## 📂 Archivos incluidos
